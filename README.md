@@ -2,7 +2,7 @@
 This is my cool arcade RPG type game!
 
 
-Please don't just take the html file and try and make it your own and profit off of it, you **WILL** be facing copyright claim issues and will be reported to GitHub **immediately** and will be taken DOWN
+Please don't just take the html file and try and make it your own and profit off of it, you **WILL** be facing copyright claim issues and will be reported to GitHub **immediately** and **WILL** be taken down.
 
 # ***hxmpterr @2026***
 
